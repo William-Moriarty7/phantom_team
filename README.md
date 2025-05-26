@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="icon/logo.svg" alt="Phantom Team Logo" width="120"/>
+  <img src="icon/favicon.png" alt="Phantom Team Logo" width="120"/>
 </p>
 
 # Phantom Team
